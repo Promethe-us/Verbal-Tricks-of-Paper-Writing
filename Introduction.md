@@ -143,5 +143,10 @@
 <img src="./imgs/Introduction/Intro four part.png" alt="Intro four part" style="zoom:75%;" />
 
 - 这本书罗列了很多在intro中常用的词，句式，感觉非常牛掰。还是按照上面的四个模块分别罗列的；
+  
+  <img src="./imgs/Introduction/Vocabulary for Intro's PART1.png" alt="skim reading" style="zoom:75%;" />
+  <img src="./imgs/Introduction/Vocabulary for Intro's PART2.png" alt="skim reading" style="zoom:75%;" />
+  <img src="./imgs/Introduction/Vocabulary for Intro's PART3.png" alt="skim reading" style="zoom:75%;" />
+  <img src="./imgs/Introduction/Vocabulary for Intro's PART4.png" alt="skim reading" style="zoom:75%;" />
 
   
